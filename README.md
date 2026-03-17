@@ -1,2 +1,2 @@
-#Output
+# Output
 ![Output](output.png)
